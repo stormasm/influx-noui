@@ -1,6 +1,6 @@
 
 ```
-alias igr='gr cmd/influxd/main.go'
+alias igr='go run cmd/influxd/main.go'
 alias bigr='go build cmd/influxd/main.go'
 ```
 
